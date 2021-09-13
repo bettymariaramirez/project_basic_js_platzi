@@ -1,0 +1,2 @@
+declarar ();
+console.log(variable)
